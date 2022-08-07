@@ -9,5 +9,4 @@ public class Solution {
         System.out.println("Я — поэт, зовусь я Цветик.");
         System.out.println("От меня вам всем приветик.");
     }
-
 }
